@@ -1,1 +1,2 @@
-# mslearn-ai-services.ar-sa
+# mslearn-ai-services
+ملفات الواجب لوحدات خدمات الذكاء الاصطناعي في Azure
