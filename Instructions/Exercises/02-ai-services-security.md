@@ -113,7 +113,7 @@ lab:
 5. حدد **+إنشاء/استيراد** وأضف سرا جديدا بالإعدادات التالية:
     - **خيارات التحميل**: يدوي
     - **الاسم**: مفتاح خدمات الذكاء الاصطناعي *(من المهم أن تتطابق مع هذا تمامًا، لأنك ستقوم لاحقًا بتشغيل التعليمات البرمجية التي تسترد البيانات السرية استنادًا إلى هذا الاسم)*
-    - **القيمة**: *مفتاحك1 **** مفتاح خدمات الذكاء الاصطناعي في Azure*
+    - **قيمة السر**: * **مفاتحك1** مفتاح خدمات الذكاء الاصطناعي في Azure*
 6. حدد **إنشاء**.
 
 ### إنشاء كيان خدمة
@@ -167,16 +167,16 @@ lab:
 
     ```
     dotnet add package Azure.AI.TextAnalytics --version 5.3.0
-    dotnet add package Azure.Identity --version 1.5.0
-    dotnet add package Azure.Security.KeyVault.Secrets --version 4.2.0-beta.3
+    dotnet add package Azure.Identity --version 1.12.0
+    dotnet add package Azure.Security.KeyVault.Secrets --version 4.6.0
     ```
 
     **Python**
 
     ```
     pip install azure-ai-textanalytics==5.3.0
-    pip install azure-identity==1.5.0
-    pip install azure-keyvault-secrets==4.2.0
+    pip install azure-identity==1.17.1
+    pip install azure-keyvault-secrets==4.8.0
     ```
 
 3. اعرض محتويات مجلد **keyvault-client**، ولاحظ أنه يحتوي على ملف لإعدادات التكوين:
