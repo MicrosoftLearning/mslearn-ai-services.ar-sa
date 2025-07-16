@@ -1,10 +1,14 @@
-#README
+# طوّر حلول ذكاء اصطناعي توليدي في Azure
 
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+التمارين الموجودة في مخزن البيانات الخاصة مصممة لتزويدك بتجربة تعليمية عملية، تستكشف من خلالها المهام الشائعة التي ينفذها المطورون عند بناء حلول الذكاء الاصطناعي التوليدي في Microsoft Azure.
 
-Provide feedback here: https://aka.ms/provide-feedback
+> **ملاحظة**: لاستكمال التدريبات، ستحتاج إلى اشتراك Azure الذي تتمتع فيه بالأذونات والحصة النسبية الكافية لتوفير موارد Azure ونماذج الذكاء الاصطناعي التوليدي اللازمة. إذا لم يكن لديك حسابًا مسبقًا، فيمكنك التسجيل للحصول على [حساب Azure](https://azure.microsoft.com/free). هناك خيار تجريبي مجاني للمستخدمين الجدد يتضمن رصيدًا لأول 30 يومًا.
 
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+عرض التدريبات في [موقع GitHub Pages لمخزن البيانات الخاصة هذا](https://microsoftlearning.github.io/mslearn-ai-services/).
 
-# mslearn-ai-services
-ملفات الواجب لوحدات خدمات الذكاء الاصطناعي في Azure
+
+> **ملاحظة**: على الرغم من أنه يمكنك إكمال هذه التدريبات بمفردها، إلا أنها مصممة لاستكمال الوحدات الموجودة على [Microsoft Learn](https://learn.microsoft.com/training/paths/get-started-azure-ai/)؛ حيث ستجد تعمقًا في بعض المفاهيم الأساسية التي تستند إليها هذه التدريبات.
+
+## الإبلاغ عن المشكلات
+
+إذا واجهت أي مشاكل في التدريبات، فيرجى الإبلاغ عنها بوصفها **مشكلات** في هذا المستودع.
