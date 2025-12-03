@@ -1,3 +1,5 @@
+**⚠️ This GitHub repo will retire on 30th December 2025.**
+
 # تطوير حلول الذكاء الاصطناعي في Azure
 
 > **ملاحظة**: تتم أرشفة هذا المستودع، ولم يعُد يتم الاحتفاظ به. يُرجى زيارة مسار تعلم [تطبيقات الذكاء الاصطناعي التوليدي](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) [ومستودع المختبر المرتبط به](https://github.com/MicrosoftLearning/mslearn-ai-studio)، أو [وثائق مصنع الذكاء الاصطناعي في Azure](https://learn.microsoft.com/en-us/azure/ai-foundry/)
